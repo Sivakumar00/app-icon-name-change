@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dynamic_app_properties</string>
+    <string name="app_name_change">changed app name</string>
+</resources>
